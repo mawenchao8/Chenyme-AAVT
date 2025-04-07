@@ -24,7 +24,8 @@
 > 
 > 📖 [**安装教程**](https://blog.chenyme.top/blog/aavt-install) | ❓ [ **常见问题**](https://blog.chenyme.top/blog/aavt-qa) | 💬 [ **电报群组**](https://t.me/+j8SNSwhS7xk1NTc9)
 >
-> ### 更加专业准确的srt字幕翻译，可以体验我的新项目：[ **Srtranslate**](https://github.com/chenyme/Srtranslate) | 官网：[srt.chenyme.com](https://srt.chenyme.com)
+> ### 新项目：[ **Srtranslate**](https://github.com/chenyme/Srtranslate) | 官网：[srt.chenyme.com](https://srt.chenyme.com)
+> ### 体验更加专业智能、高效精确的srt字幕翻译！
 
 <br>
 
