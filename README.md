@@ -23,6 +23,8 @@
 > 📝 **推荐识别时使用 Large 模型以获取更好的体验！由于正在备考，更新速度会放缓，感谢理解！** 
 > 
 > 📖 [**安装教程**](https://blog.chenyme.top/blog/aavt-install) | ❓ [ **常见问题**](https://blog.chenyme.top/blog/aavt-qa) | 💬 [ **电报群组**](https://t.me/+j8SNSwhS7xk1NTc9)
+>
+> ### 更加专业准确的srt字幕翻译，可以体验我的新项目：[ **Srtranslate**](https://github.com/chenyme/Srtranslate) | 官网：[srt.chenyme.com](https://srt.chenyme.com)
 
 <br>
 
